@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/Alejandro-Morales/Canalizaci%C3%B3n%20Guiada/_apis/build/status/imorales1.Prueba-Aure?branchName=master)](https://dev.azure.com/Alejandro-Morales/Canalizaci%C3%B3n%20Guiada/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://dev.azure.com/Alejandro-Morales/Canalizaci%C3%B3n%20Guiada/_apis/build/status/imorales1.Prueba-Aure?branchName=master)](https://dev.azure.com/Alejandro-Morales/Canalizaci%C3%B3n%20Guiada/_build/latest?definitionId=6&branchName=master) 
 # Contributing
 https://dev.azure.com/Alejandro-Morales/Parcial%202/_apis/build/status/imorales1.Prueba-Aure?branchName=master
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
