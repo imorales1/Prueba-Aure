@@ -23,14 +23,14 @@ pool:
 steps:
 - task: Maven@3
   inputs:
-    mavenPomFile: "pom.xml"
-    mavenOptions: "-Xmx3072m"
-    javaHomeOption: "JDKVersion"
-    jdkVersionOption: $(jdk_version)
-    jdkArchitectureOption: "x64"
+    mavenPomFile: 'pom.xml'
+    mavenOptions: '-Xmx3072m'
+    javaHomeOption: 'JDKVersion'
+    jdkVersionOption: '1.8'
+    jdkArchitectureOption: 'x64'
     publishJUnitResults: true
-    testResultsFiles: "**/TEST-*.xml"
-    goals: "package"
+    testResultsFiles: '**/surefire-reports/TEST-*.xml'
+    goals: 'package'
 
 - task: PublishCodeCoverageResults@1
   inputs:
